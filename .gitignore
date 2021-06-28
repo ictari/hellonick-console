@@ -1,0 +1,4 @@
+/.vs/HelloNickConsole.WebApi/v16/*.suo
+/HelloNickConsole.WebApi/obj/Debug
+/HelloNickConsole.WebApi/bin/Debug
+/packages/*.*
